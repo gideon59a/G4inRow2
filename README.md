@@ -1,1 +1,1 @@
-# G4inRow2
+# G4inRow2 (redesign of G4inRow)
